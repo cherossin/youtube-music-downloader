@@ -84,7 +84,7 @@ python downloader.py "https://www.youtube.com/watch?v=example" -f mp3 -o "./down
 
 ## 문제 해결 및 문의
 
-문제가 발생하거나 기능 추가를 원하시면 [이슈](https://github.com/사용자명/리포지토리명/issues)를 열어주시거나, 풀 리퀘스트를 제출해주세요.
+문제가 발생하거나 기능 추가를 원하시면 [이슈](https://github.com/koremin/youtube-music-downloader/issues)를 열어주시거나, 풀 리퀘스트를 제출해주세요.
 
 ---
 
