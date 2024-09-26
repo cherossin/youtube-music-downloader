@@ -1,6 +1,6 @@
-# YouTube 오디오 다운로더
+# YouTube Music Downloader
 
-YouTube 또는 YouTube Music에서 고음질 오디오를 다운로드하고, 자동으로 메타데이터와 썸네일을 설정하는 Python 스크립트입니다. 다양한 오디오 형식을 지원하며, 가사 파일(.lrc)도 생성할 수 있습니다.
+YouTube 또는 YouTube Music에서 오디오를 다운로드하고, 자동으로 메타데이터와 썸네일을 설정하는 Python 스크립트입니다. 다양한 오디오 형식을 지원하며, 가사 파일(.lrc)도 생성할 수 있습니다.
 
 ## 주요 기능
 
